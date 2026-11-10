@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/hone/ruby-git.git
+  remote: https://github.com/hone/ruby-git.git
   revision: 264836fcff3c037d8d8fc44bd770b150b46fdc4e
   branch: master
   specs:
@@ -33,7 +33,7 @@ GEM
       rrrretry (~> 1)
       thor (~> 0)
       threaded (~> 0)
-    i18n (0.6.9)
+    i18n (0.8.0)
     mime-types (2.1)
     minitest (4.7.5)
     multi_json (1.8.4)
